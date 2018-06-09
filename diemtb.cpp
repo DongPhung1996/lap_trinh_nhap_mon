@@ -18,5 +18,5 @@ main()
 		 << "Diem mon toan " << toan << endl
 		 << "Diem mon ly " << ly << endl
 		 << "Diem mon hoa " << hoa << endl
-		 << "Diem trung binh: " << (toan + ly + hoa)/3;
+		 << "Diem trung binh: " << (toan + ly + hoa)/2;
 }
